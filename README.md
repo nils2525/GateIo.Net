@@ -270,6 +270,10 @@ Make a one time donation in a crypto currency of your choice. If you prefer to d
 Alternatively, sponsor me on Github using [Github Sponsors](https://github.com/sponsors/JKorf).
 
 ## Release notes
+* Version 4.6.1 - 01 Sep 2026
+    * Updated CryptoExchange.Net to v12.5.1
+    * Fixed restClient.SpotApi.Trading.EditOrderAsync request signature
+
 * Version 4.6.0 - 21 Aug 2026
     * Updated to CryptoExchange.Net v12.5.0
     * Added Shared ISpotOrderManagementSocketClient, IFuturesOrderManagementSocketClient implementations
